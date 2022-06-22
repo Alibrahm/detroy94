@@ -1,4 +1,4 @@
-
+# Aloha, I'm [Ali Ibrahim!](https://detroy94.github.io/online-cv/#/) <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
 # 💫 About Me:
 🔭 I’m currently working on MQTT integrated GPS tracking and IoT system<br>👯 I’m looking to collaborate on IoT machine learning, Stm32, Raspberry Pi, PCB design and printing<br>🤝 I’m looking for help with React-Redux<br>🌱 I’m currently learning React-Redux Javascript skills<br>💬 Ask me about any tech-related stuff<br>📫 How to reach me: Email - alibra71@gmail.com<br>😄 Pronouns: He/His<br>⚡ Fun fact: My favorite song is Mamezala by Mafikizolo ft Simmy<br>
 
